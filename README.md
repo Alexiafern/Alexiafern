@@ -15,4 +15,8 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-</div>
+</div> </br>
+
+### Utilizadas po mim recentemente : </br> </br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiafern&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
