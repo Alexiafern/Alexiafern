@@ -1,4 +1,4 @@
-### Olá! Eu sou a Alexia Fernanda 👊
+### <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif " width = "50px" /> Olá! Eu sou a Alexia Fernanda 👊
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPQAW6XxpOdmr5qRmFR27Ug)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexia_fol/?next=%2F)
 
