@@ -20,9 +20,6 @@
     <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 </div> </br>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Alexiafern&theme=gotham&hide_border=true&area=true)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Alexiafern&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
