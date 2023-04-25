@@ -11,6 +11,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiafern&layout=compact&hide_border=true&title_color=ff0084&text_color=ff0084&bg_color=0d1117" />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alexiafern&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
 ### Tecnologias que eu utilizo:
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,9 +25,6 @@
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 </div> </br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alexiafern&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
