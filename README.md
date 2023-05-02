@@ -6,11 +6,6 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCPQAW6XxpOdmr5qRmFR27Ug)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexia_fol/?next=%2F)
 </div>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alexiafern&show_icons=true&count_private=true&hide_border=true&title_color=ff0084&icon_color=ff0084&text_color=ffffff&bg_color=0d1117" alt="Alexia fernanda github status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiafern&layout=compact&hide_border=true&title_color=ff0084&text_color=ff0084&bg_color=0d1117" />
-</div>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Alexiafern&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
