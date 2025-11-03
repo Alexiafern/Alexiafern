@@ -43,9 +43,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Alexiafern}/count.svg" /></p> 
-<br></div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0084&height=120&section=footer"/>
